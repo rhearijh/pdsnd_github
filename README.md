@@ -11,4 +11,4 @@ This project looks at bikeshare data in Chicago, New York, and DC and compares t
 Files Used: chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was apart of the Udacity R and Data Science Nanodegree course. 
