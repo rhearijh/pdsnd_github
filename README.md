@@ -5,7 +5,7 @@ July 30, 2020
 Exploring Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project looks at bikeshare data in Chicago, New York, and DC and compares travel times, ages, and trip durations among users.
 
 ### Files used
 Include the files used
